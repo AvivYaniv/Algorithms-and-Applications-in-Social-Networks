@@ -8,7 +8,7 @@ In addition to covering fundamental issues in social networks, we will focus on 
 For practice, we will use publically available datasets of social networks and demonstrate solution of real life challenges. <br/>
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Graph_betweenness.svg/1024px-Graph_betweenness.svg.png" width="20%"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Graph_betweenness.svg/1024px-Graph_betweenness.svg.png" width="30%"/>
 <p/>
 
 ## Homeworks
