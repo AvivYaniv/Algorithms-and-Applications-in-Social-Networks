@@ -7,6 +7,10 @@ The course will involve both theoretical parts (such as formal definition of soc
 In addition to covering fundamental issues in social networks, we will focus on practical real world tasks, including the trends from the last years.  <br/>
 For practice, we will use publically available datasets of social networks and demonstrate solution of real life challenges. <br/>
 
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Graph_betweenness.svg/1024px-Graph_betweenness.svg.png" width="20%"/>
+<p/>
+
 ## Homeworks
 [Homework 1](https://github.com/AvivYaniv/Algorithms-and-Applications-in-Social-Networks/blob/master/1/SN_HW1.pdf): <br/>
 - Implement [Erdős–Rényi model](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model) <br/>
