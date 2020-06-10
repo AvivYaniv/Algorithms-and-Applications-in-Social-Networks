@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Algorithms-and-Applications-in-Social-Networks.svg)](http://hits.dwyl.com/AvivYaniv/Algorithms-and-Applications-in-Social-Networks)
+
 # Algorithms-and-Applications-in-Social-Networks
 
 Today we cannot imagine our life without social networks. <br/>
