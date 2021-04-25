@@ -1,4 +1,5 @@
-[![HitCount](http://hits.dwyl.com/AvivYaniv/Algorithms-and-Applications-in-Social-Networks.svg)](http://hits.dwyl.com/AvivYaniv/Algorithms-and-Applications-in-Social-Networks)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AvivYaniv.Algorithms-and-Applications-in-Social-Networks.issue.1) <br/>
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Algorithms-and-Applications-in-Social-Networks.svg)](http://hits.dwyl.com/AvivYaniv/Algorithms-and-Applications-in-Social-Networks)<br/>
 
 # Algorithms-and-Applications-in-Social-Networks
 
